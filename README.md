@@ -10,7 +10,7 @@ In our research output, we illustrate:
 - The efficacy of a trained named entity recognition machine learning compared to pattern recognition and other popular AI tools.
 - The frequency of specimen citations from a specific collection out of 1,300 publications.
 
-I partnered with
-Richard Naples, Smithsonian Libraries and Archives
-Sara Lafia, University of Michigan, School of Information
-Andrea Thomer, Assistant Professor at the University of Arizona School of Information
+I partnered with:<br>
+Richard Naples, Smithsonian Libraries and Archives<br>
+Sara Lafia, University of Michigan, School of Information<br>
+Andrea Thomer, Assistant Professor at the University of Arizona School of Information<br>
