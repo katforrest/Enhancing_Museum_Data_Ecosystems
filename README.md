@@ -1,5 +1,5 @@
-#A 2022 LEADING Fellowship & Smithsonian Institution collaboration project.
-###Harnessing the capabilities of Named Entity Recorgnition (NER) machine learning tools, this project demonstrates the research output of scholars utilizing Smithsonian museum specimens.
+# A 2022 LEADING Fellowship & Smithsonian Institution collaboration project.
+### Harnessing the capabilities of Named Entity Recorgnition (NER) machine learning tools, this project demonstrates the research output of scholars utilizing Smithsonian museum specimens.
 
 The research of scholars and scientists in the natural sciences depends heavily on the specimens curated and cared for by collecting institutions around the world, such as the Smithsonian National Museum of Natural History and the University of Michigan Museum of Zoology. 
 
